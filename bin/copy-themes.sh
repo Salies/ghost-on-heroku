@@ -3,6 +3,7 @@ themes=(
 	attila
 	london
 	massively
+	anticitizen-ghost-theme
 	bleak
 	the-shell
 	vapor
